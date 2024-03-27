@@ -2,7 +2,7 @@ ARBORESCENCE DU PROJET
 
 
 +--source  
-   +--app.py  
+      +--app.py  
    +--data  
       +--res.pyxres  
 +--doc  
