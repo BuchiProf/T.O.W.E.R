@@ -2,11 +2,11 @@ ARBORESCENCE DU PROJET
 
 
 +--source  
-      +--app.py  
-   +--data  
+  +--app.py  
+  +--data  
       +--res.pyxres  
 +--doc  
-   +--guide.txt  
+  +--guide.txt  
 +--README  
 +--requirements.txt  
 
