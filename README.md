@@ -1,13 +1,13 @@
 ARBORESCENCE DU PROJET
 
 
-+--source  
+source  
   +--app.py  
   +--data  
-      +--res.pyxres  
-+--doc  
+      +----res.pyxres  
+doc  
   +--guide.txt  
-+--README  
-+--requirements.txt  
+README  
+requirements.txt  
 
 Exécuter app.py pour démarrer le jeu
